@@ -1,7 +1,12 @@
-Boas vindas ao meu perfil...
-Estou estudando na alura.
-Estou me desenvolvedo na linguagem JavaScript.
-Utilizo esse espaço para minha organizaçao e compartilhamento dos meu projetos desenvolvidos.
+BOAS VINDAS AO MEU PERFIL:>
+
+Meu nome é Rebeca Thomaz.
+
+_Estou estudando na alura.
+
+_Estou me desenvolvedo na linguagem JavaScript.
+
+_Utilizo esse espaço para minha organizaçao e compartilhamento dos meu projetos desenvolvidos.
 
 <!--
 **becathomaz/becathomaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
