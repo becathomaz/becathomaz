@@ -1,4 +1,7 @@
-## Hi there 👋
+Boas vindas ao meu perfil...
+Estou estudando na alura.
+Estou me desenvolvedo na linguagem JavaScript.
+Utilizo esse espaço para minha organizaçao e compartilhamento dos meu projetos desenvolvidos.
 
 <!--
 **becathomaz/becathomaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
